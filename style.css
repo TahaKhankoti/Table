@@ -1,0 +1,24 @@
+table{
+    border:1px solid black;
+    border-collapse:collapse ; 
+    margin:auto;   
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+td{
+    border:1px solid yellow;
+}
+th{
+    border: 1px solid yellow;
+    text-align: left;
+}
+.header{
+    background-color: green;
+    color: antiquewhite;
+}
+.head{
+    background-color: rgb(223, 221, 221);
+    font-size: large;
+}
